@@ -1,1 +1,1 @@
-# socket
+# Client–server
